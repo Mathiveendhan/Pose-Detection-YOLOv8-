@@ -9,4 +9,6 @@ for pose detection ,you have to use code line 4,7 by remove the '#' and put '#' 
 for object detection ,you have to use code line 3,6 by remove the '#' and put '#' for other two line 4,7
 
 you can use this repository for both object detection and also for Live pose detection
-![Screenshot 2024-05-31 033611](https://github.com/Mathiveendhan/Pose-Detection-YOLOv8-/assets/113008726/0bd63f13-a39f-4120-b121-5f3c4beb84f5)
+
+![image](https://github.com/Mathiveendhan/Pose-Detection-YOLOv8-/assets/113008726/ea8ad18d-e906-48dc-81e0-6e3475ad7fa0)
+
