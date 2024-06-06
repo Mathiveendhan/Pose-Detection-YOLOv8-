@@ -16,4 +16,6 @@ you get result for Object dectection as this...
 ![image](https://github.com/Mathiveendhan/Pose-Detection-YOLOv8-/assets/113008726/f8771840-82ac-49b2-b59c-7284184cc971)
 
 you get result for pose detection as this...
+
+
 ![pose](https://github.com/Mathiveendhan/Pose-Detection-YOLOv8-/assets/113008726/aa7e6230-76d4-4384-8159-3f99351bb716)
